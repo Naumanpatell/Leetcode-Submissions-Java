@@ -26,6 +26,7 @@
 | [0110-balanced-binary-tree](https://github.com/Naumanpatell/Leetcode-Submissions-Java/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Naumanpatell/Leetcode-Submissions-Java/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Naumanpatell/Leetcode-Submissions-Java/tree/master/0226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Naumanpatell/Leetcode-Submissions-Java/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Naumanpatell/Leetcode-Submissions-Java/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
@@ -35,6 +36,7 @@
 | [0110-balanced-binary-tree](https://github.com/Naumanpatell/Leetcode-Submissions-Java/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Naumanpatell/Leetcode-Submissions-Java/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Naumanpatell/Leetcode-Submissions-Java/tree/master/0226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Naumanpatell/Leetcode-Submissions-Java/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Naumanpatell/Leetcode-Submissions-Java/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -51,6 +53,7 @@
 | [0110-balanced-binary-tree](https://github.com/Naumanpatell/Leetcode-Submissions-Java/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Naumanpatell/Leetcode-Submissions-Java/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Naumanpatell/Leetcode-Submissions-Java/tree/master/0226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Naumanpatell/Leetcode-Submissions-Java/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Naumanpatell/Leetcode-Submissions-Java/tree/master/0543-diameter-of-binary-tree) |
 ## DP on Trees
 |  |
@@ -60,4 +63,16 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Naumanpatell/Leetcode-Submissions-Java/tree/master/0242-valid-anagram) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Naumanpatell/Leetcode-Submissions-Java/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Binary Lifting
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Naumanpatell/Leetcode-Submissions-Java/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Naumanpatell/Leetcode-Submissions-Java/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 <!---LeetCode Topics End-->
